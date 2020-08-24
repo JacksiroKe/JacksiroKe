@@ -3,7 +3,7 @@
 - ⚡ I am familiar with packaging and deploying applications in Web, Android (Google Play Store), iOS (Apple Store), Windows(Windows Store) as well as cloud platforms such as Microst Azure and Amazon AWS, with a good understanding and experience with RESTful APIs.
 - 😄 I am also proficient with git version control tools and above all Object Oriented Programming principles.
 - 📫 Without forgetting I can be reached via the username ✨ _jacksiroke_ ✨ on all social media account or simply gmail that.
- By they way, did I forget to mention that I am a simple down to earth yet humerous blogger when I am when I am bored with coding? I also chase wind with a couple of freaks from all kinds of life around the city when not debugging especially on weekends. It helps a lot to refresh or rather reboot the exhausted mind. I think you should try it too to make you healthy and fit.
+ By they way, did I forget to mention that I am a simple down to earth yet humerus blogger when I am when I am bored with coding? I also chase wind with a couple of freaks from all kinds of life around the city when not debugging especially on weekends. It helps a lot to refresh or rather reboot the exhausted mind. I think you should try it too to make you healthy and fit.
 
 <!--
 **JacksiroKe/JacksiroKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
