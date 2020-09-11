@@ -9,6 +9,6 @@
 
  By they way, did I forget to mention that I love to [blog](https://medium.com/@JacksiroKe) when I am when I am bored with coding? I also chase wind or rather [cycle](https://www.strava.com/athletes/39986133) around the city when not debugging Cross Platform software especially on weekends. It helps a lot to refresh or rather reboot the exhausted mind. I think you should try it too to make you healthy and fit.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksiroke&hide=html)
-![JacksiroKe's github stats](https://github-readme-stats.vercel.app/api?username=jacksiroke&show_icons=true&count_private=true&line_height=40&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=15151)
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksiroke&&title_color=FF4500" >
 
+<img alt="JacksiroKe's github stats" src="https://github-readme-stats.vercel.app/api?username=jacksiroke&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=FF4500" >
