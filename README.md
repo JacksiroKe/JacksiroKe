@@ -1,6 +1,4 @@
-## Hello there 👋, My name is Jack Siro ✨ [![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe)
-
-### I just ❤ Open Source, I love [VS Code](https://code.visualstudio.com) & [Swahili](https://en.wikipedia.org/wiki/Swahili_language)
+### Hello there 👋, My name is Jack Siro ✨ [![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe) and I just ❤ Open Source, I love [VS Code](https://code.visualstudio.com) & [Swahili](https://en.wikipedia.org/wiki/Swahili_language)
 <!--<img align="right" alt="GIF" src="https://avatars3.githubusercontent.com/u/1726074?s=400&u=1d2d018aede57341a274837d77df5a03af6c66aa&v=4" width="400"/>-->
   
 - 🔭 I am a self taught _Software Developer_ from **Nairobi, Kenya** with proven experience working with **[Laravel](https://laravel.com)**, **[Question2Answer](https://question2answer.org)**, **[Joomla](https://joomla.org)**, **[Wordpress](https://wordpress.org)**, **[Drupal](https://drupal.org)**, **[Moodle](https://moodle.org)** frameworks in **PHP** & **JavaScript**. I have done android apps using **Java** and now I do them using **Flutter (Dart)** which now has enabled me to do apps for **iOS** too. I have worked as a **[.Net (C#)](https://dotnet.microsoft.com)** doing desktop app. Then on my own I have done desktop with **C/C++** using **[Qt](https://qt.io)** though and **[WxWidgets](https://wxwidgets.org)**.
