@@ -7,6 +7,7 @@
 - ✨ My hobbies include **[blogging](https://medium.com/@JacksiroKe)**, **[cycling](https://www.strava.com/athletes/39986133)**, **skating** and above all **programming**.
 
 [![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe) ![](https://komarev.com/ghpvc/?username=JacksiroKe&label=Views)
+
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksiroke&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="JacksiroKe's github stats" src="https://github-readme-stats.vercel.app/api?username=jacksiroke&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=JacksiroKe&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
