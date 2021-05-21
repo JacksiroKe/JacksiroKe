@@ -2,7 +2,7 @@
 
 🔭 My vast experience spans from php, javascript, c++, java, c# to dart during which I have been able to package apps for **web**, **windows**, **windows phone**, **[android](https://play.google.com/store/apps/dev?id=6588364181021070520)**, **[ios](https://apps.apple.com/us/developer/jackson-siro/id1327275130)** and even recently **snapstore**.
 
-⚡ I have worked with cloud platforms such as azure, aws and gcp making use of git version controls along the way. Having s good understanding and experience with restful apis and also oop principles is not something I take for granted in my developer career. Currently I am working to build futuristic cross platform products.
+⚡ I have worked with cloud platforms such as azure, aws and gcp making use of git version controls along the way. Having good understanding and experience with restful apis and also oop principles is not something I take for granted in my developer career. Currently I am working to build futuristic cross platform products.
 
 ✨ Outside tech, I am an avid **cyclist**, **skating** at times and also **[blogging](https://medium.com/@jacksiro254)**.
 
