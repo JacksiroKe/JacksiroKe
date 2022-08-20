@@ -7,8 +7,6 @@
 ✨ Outside tech, I am an avid **cyclist**, **skating** at times and also **[blogging](https://medium.com/@JacksiroKe)**.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksiroKe&hide=html)
-![github stats](https://github-readme-stats.vercel.app/api?username=JacksiroKe&show_icons=true&count_private=true&line_height=33)
-
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksiroKe&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="Jacksiro's github stats" src="https://github-readme-stats.vercel.app/api?username=JacksiroKe&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
+![github stats](https://github-readme-stats.vercel.app/api?username=JacksiroKe&show_icons=true&count_private=true&line_height=50)
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=JacksiroKe&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
