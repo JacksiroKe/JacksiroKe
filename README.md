@@ -6,7 +6,7 @@
 
 ✨ Outside tech, I am an avid **cyclist**, **skating** at times and also **[blogging](https://medium.com/@JacksiroKe)**.
 
-| <a href="https://github.com/JacksiroKe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JacksiroKe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JacksiroKe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksiroKe&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/JacksiroKe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JacksiroKe&show_icons=true&include_all_commits=true&hide_border=true" alt="Jack Siro's github stats" /></a> <a href="https://github.com/JacksiroKe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksiroKe&layout=compact&hide_border=true" /></a>
 | ------------- | ------------- |
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=JacksiroKe&show_icons=true&count_private=true&line_height=40)
