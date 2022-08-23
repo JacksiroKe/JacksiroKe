@@ -1,7 +1,7 @@
 ### Hello there 👋, I'm Jack Siro
-
-[![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe) 
 <div>
+    [![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe)
+    &nbsp;
     <!-- Social button 2 -->
     <!-- Light Mode -->
     <a href="https://twitter.com/intent/follow?screen_name=JacksiroKe#gh-light-mode-only">
@@ -35,7 +35,7 @@ AWS, Git version control tools and above all Object-Oriented Programming princip
 <!-- Light Mode -->
 <div align="center">
     <a href="https://github.com/JacksiroKe/github-readme-stats#gh-light-mode-only">
-        <img height=200
+        <img height=200 width=500
             src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=JacksiroKe&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only"
             alt="Jack Siro's Language stats" />
     </a>
