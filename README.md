@@ -4,18 +4,18 @@ I am a self-taught software developer based in Nairobi, Kenya with a proven expe
 
 <!-- Light Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Rick Staa's Language stats" />
+<a href="https://github.com/JacksiroKe/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Jack Siro's Language stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Rick Staa's Github stats" />
+<a href="https://github.com/JacksiroKe/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=JacksiroKe&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Jack Siro's Github stats" />
 </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+<a href="https://github.com/JacksiroKe/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=JacksiroKe&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Jack Siro's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
@@ -37,27 +37,17 @@ I am a self-taught software developer based in Nairobi, Kenya with a proven expe
 &nbsp;
 <!-- Social button 2 -->
 <!-- Light Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-light-mode-only">
-<img src="https://img.shields.io/twitter/follow/rick_staa?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+<a href="https://twitter.com/intent/follow?screen_name=JacksiroKe#gh-light-mode-only">
+<img src="https://img.shields.io/twitter/follow/JacksiroKe?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 <!-- Dark Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-dark-mode-only">
-<img src="https://img.shields.io/twitter/follow/rick_staa?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
-</a>
-&nbsp;
-<!-- Social button 3 -->
-<!-- Light Mode -->
-<a href="https://stackshare.io/rickstaa/my-stack#gh-light-mode-only">
-<img src="https://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&labelColor=000&color=3572A5#gh-light-mode-only" alt="Checkout my development stack" >
-</a>
-<!-- Dark Mode -->
-<a href="https://stackshare.io/rickstaa/my-stack#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&labelColor=000&color=FFF#gh-dark-mode-only" alt="Checkout my development stack" >
+<a href="https://twitter.com/intent/follow?screen_name=JacksiroKe#gh-dark-mode-only">
+<img src="https://img.shields.io/twitter/follow/JacksiroKe?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 &nbsp;
 <!-- Social button 4 -->
 <!-- Light Mode -->
-<a href="https://www.linkedin.com/in/rickstaa#gh-light-mode-only">
+<a href="https://www.linkedin.com/in/JacksiroKe#gh-light-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 </a>
 <!-- Dark Mode -->
