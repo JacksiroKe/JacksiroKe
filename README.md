@@ -3,7 +3,7 @@
 I am a self-taught software developer based in Nairobi, Kenya with a proven experience working with languages such as
 PHP, Java, C#, Dart and C/C++ familiar with packaging and deploying apps in Web, Android, iOS and Windows platforms,
 with a good experience with RESTful APIs. I am also proficient with cloud platforms such as Microsoft Azure and Amazon
-AWS, Git version control tools and above all Object-Oriented Programming principles.
+AWS, Git version control tools and above all Object-Oriented Programming principles. if am not coding, I will definately be cycling.
 
 <div>
     <a href="https://github.com/JacksiroKe/github-readme-stats">
