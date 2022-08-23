@@ -7,7 +7,7 @@ AWS, Git version control tools and above all Object-Oriented Programming princip
 
 <div>
     <a href="https://github.com/JacksiroKe/github-readme-stats">
-        <img height=200 width=500
+        <img height=200
             src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=JacksiroKe&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR"
             alt="Jack Siro's Language stats" />
     </a>
