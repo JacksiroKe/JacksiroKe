@@ -1,5 +1,5 @@
-### Hello there 👋, I'm Jack Siro
-[![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe)
+### Hello there 👋, I'm Jack Siro [![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe) <img src="https://img.shields.io/twitter/follow/JacksiroKe?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only"
+alt="Follow me on twitter">
 
 I am a self-taught software developer based in Nairobi, Kenya with a proven experience working with languages such as
 PHP, Java, C#, Dart and C/C++ familiar with packaging and deploying apps in Web, Android, iOS and Windows platforms,
