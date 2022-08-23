@@ -1,4 +1,5 @@
 ### Hello there 👋, I'm Jack Siro [![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe)
+[![Twitter](https://img.shields.io/twitter/follow/JacksiroKe)](https://twitter.com/intent/follow?screen_name=JacksiroKe)
 
 <div>
     <a href="[https://twitter.com/intent/follow?screen_name=JacksiroKe](https://github.com/JacksiroKe)">
