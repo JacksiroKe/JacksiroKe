@@ -5,7 +5,7 @@ PHP, Java, C#, Dart and C/C++ familiar with packaging and deploying apps in Web,
 with a good experience with RESTful APIs. I am also proficient with cloud platforms such as Microsoft Azure and Amazon
 AWS, Git version control tools and above all Object-Oriented Programming principles.
 
-<div align="center">
+<div>
     <a href="https://github.com/JacksiroKe/github-readme-stats">
         <img height=200 width=500
             src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=JacksiroKe&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR"
