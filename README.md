@@ -1,7 +1,5 @@
-### Hello there 👋, I'm Jack Siro
+### Hello there 👋, I'm Jack Siro [![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe)
 <div>
-    [![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe)
-    &nbsp;
     <!-- Social button 2 -->
     <!-- Light Mode -->
     <a href="https://twitter.com/intent/follow?screen_name=JacksiroKe#gh-light-mode-only">
