@@ -1,5 +1,31 @@
-### Hello there 👋, I'm Jack Siro [![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe) <img src="https://img.shields.io/twitter/follow/JacksiroKe?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only"
-alt="Follow me on twitter">
+### Hello there 👋, I'm Jack Siro
+
+[![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe) 
+<div>
+    <!-- Social button 2 -->
+    <!-- Light Mode -->
+    <a href="https://twitter.com/intent/follow?screen_name=JacksiroKe#gh-light-mode-only">
+        <img src="https://img.shields.io/twitter/follow/JacksiroKe?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only"
+            alt="Follow me on twitter">
+    </a>
+    <!-- Dark Mode -->
+    <a href="https://twitter.com/intent/follow?screen_name=JacksiroKe#gh-dark-mode-only">
+        <img src="https://img.shields.io/twitter/follow/JacksiroKe?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only"
+            alt="Follow me on twitter">
+    </a>
+    &nbsp;
+    <!-- Social button 4 -->
+    <!-- Light Mode -->
+    <a href="https://www.linkedin.com/in/JacksiroKe#gh-light-mode-only">
+        <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
+            alt="Connect with me on linkedin">
+    </a>
+    <!-- Dark Mode -->
+    <a href="https://www.linkedin.com/in/JacksiroKe#gh-dark-mode-only">
+        <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
+            alt="Connect with me on linkedin">
+    </a>
+</div>
 
 I am a self-taught software developer based in Nairobi, Kenya with a proven experience working with languages such as
 PHP, Java, C#, Dart and C/C++ familiar with packaging and deploying apps in Web, Android, iOS and Windows platforms,
@@ -35,31 +61,3 @@ AWS, Git version control tools and above all Object-Oriented Programming princip
 </div>
 
 <br />
-
-<!-- Social button 1 -->
-<!-- Light Mode -->
-<div>
-    <!-- Social button 2 -->
-    <!-- Light Mode -->
-    <a href="https://twitter.com/intent/follow?screen_name=JacksiroKe#gh-light-mode-only">
-        <img src="https://img.shields.io/twitter/follow/JacksiroKe?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only"
-            alt="Follow me on twitter">
-    </a>
-    <!-- Dark Mode -->
-    <a href="https://twitter.com/intent/follow?screen_name=JacksiroKe#gh-dark-mode-only">
-        <img src="https://img.shields.io/twitter/follow/JacksiroKe?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only"
-            alt="Follow me on twitter">
-    </a>
-    &nbsp;
-    <!-- Social button 4 -->
-    <!-- Light Mode -->
-    <a href="https://www.linkedin.com/in/JacksiroKe#gh-light-mode-only">
-        <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
-            alt="Connect with me on linkedin">
-    </a>
-    <!-- Dark Mode -->
-    <a href="https://www.linkedin.com/in/JacksiroKe#gh-dark-mode-only">
-        <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
-            alt="Connect with me on linkedin">
-    </a>
-</div>
