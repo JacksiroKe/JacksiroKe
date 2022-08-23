@@ -1,19 +1,4 @@
-### Hello there 👋, I'm Jack Siro [![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe) [![Twitter](https://img.shields.io/twitter/follow/JacksiroKe)](https://twitter.com/intent/follow?screen_name=JacksiroKe)
-
-<div>
-    <a href="[https://twitter.com/intent/follow?screen_name=JacksiroKe](https://github.com/JacksiroKe)">
-        <img src="https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe"
-            alt="Follow me on Github">
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/intent/follow?screen_name=JacksiroKe">
-        <img src="https://img.shields.io/twitter/follow/JacksiroKe" alt="Follow me on twitter">
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/JacksiroKe">
-        <img src="https://img.shields.io/badge/LinkedIn-3572A5" alt="Connect with me on linkedin">
-    </a>
-</div>
+### Hello there 👋, I'm Jack Siro [![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe) [![Twitter](https://img.shields.io/twitter/follow/JacksiroKe)](https://twitter.com/intent/follow?screen_name=JacksiroKe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-3572A5)](https://www.linkedin.com/in/JacksiroKe)
 
 I am a self-taught software developer based in Nairobi, Kenya with a proven experience working with languages such as
 PHP, Java, C#, Dart and C/C++ familiar with packaging and deploying apps in Web, Android, iOS and Windows platforms,
