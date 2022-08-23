@@ -1,6 +1,9 @@
 ### Hello there 👋, I'm Jack Siro [![Github](https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe)
 <div>
-    <!-- Social button 2 -->
+    <a href="[https://twitter.com/intent/follow?screen_name=JacksiroKe#gh-light-mode-only](https://github.com/JacksiroKe)">
+        <img src="https://img.shields.io/github/followers/JacksiroKe?label=Follow&style=social)](https://github.com/JacksiroKe"
+            alt="Follow me on Github">
+    </a>
     <!-- Light Mode -->
     <a href="https://twitter.com/intent/follow?screen_name=JacksiroKe#gh-light-mode-only">
         <img src="https://img.shields.io/twitter/follow/JacksiroKe?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only"
@@ -12,7 +15,6 @@
             alt="Follow me on twitter">
     </a>
     &nbsp;
-    <!-- Social button 4 -->
     <!-- Light Mode -->
     <a href="https://www.linkedin.com/in/JacksiroKe#gh-light-mode-only">
         <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
